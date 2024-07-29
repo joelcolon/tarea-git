@@ -14,7 +14,7 @@ input[type="text"] {
   }
 
   .numeros{
-    background-color: rgb(152, 157, 157);
+    background-color: rgb(3, 100, 100);
     box-shadow: 2px 2px 10px black;
     border: solid 1px black;
     color: aliceblue;
@@ -27,7 +27,7 @@ input[type="text"] {
     color: aliceblue;
   }
   .signoI{
-    background-color: rgb(64, 34, 173);
+    background-color: rgb(55, 19, 186);
     font-weight: 900;
     box-shadow: 2px 2px 10px black;
     border: solid 1px black;
